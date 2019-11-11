@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update appID="LFSPreLift"> 
+        <version>1.0.0.2</version> 
+        <url>http://emirhanpala.com.tr/forum/guncelleme/LFSPreLift.exe</url> 
+        <fileName>LFSPreLift.exe</fileName> 
+        <md5>5AB6A747A3EB054B381FE519E5B84FF8</md5>
+        <description>Update: 04/03/2017:
+1.Physics settings updated.</description> 
+        <launchArgs></launchArgs> 
+    </update> 
+</sharpUpdate>
