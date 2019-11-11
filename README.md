@@ -7,3 +7,9 @@ SharpUpdate is written in C#. It reads a xml file on the server that contains up
 
 # Credit
 SharpUpdate is modified from Auto Updater by BetterCoder on Youtube. His tutorial can be found here: http://goo.gl/n7btY
+
+#Kütüphane
+ClassLibrary kullanıldı ve kodlandı.
+
+#Cheat Engine
+Car Class Tweak Cheat Engine (6.4) Table
